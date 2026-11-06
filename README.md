@@ -1,1 +1,0 @@
-# Self-Energy-Calculus-for-Chain-Representations-of-Open-Quantum-Systems
