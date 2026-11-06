@@ -1,0 +1,51 @@
+{
+  "repository": "https://github.com/phaerrax/markovian_closure_fermions",
+  "commit": "65d476f0eda2b6c36ecd0f8d3785b481d2526ab1",
+  "files": [
+    {
+      "file": "alphas_6.dat",
+      "git_blob_sha": "0c4260e4eb5a13c12492e3b1b0d1fb66674c58a2",
+      "verified": true
+    },
+    {
+      "file": "betas_6.dat",
+      "git_blob_sha": "60e73ef68d68f2291f9e8c55d236be3f4d85e2e3",
+      "verified": true
+    },
+    {
+      "file": "coupls_6.dat",
+      "git_blob_sha": "74ed38cd2f3d7d9a4498064ff42e930f4e58f0cd",
+      "verified": true
+    },
+    {
+      "file": "alphas_8.dat",
+      "git_blob_sha": "77e364a2cef5f836c5bc16f1a6ba444e30bb1c0c",
+      "verified": true
+    },
+    {
+      "file": "betas_8.dat",
+      "git_blob_sha": "c9f386897c917f4f96573d95b9569696fd0a28bc",
+      "verified": true
+    },
+    {
+      "file": "coupls_8.dat",
+      "git_blob_sha": "13f5fcfe6eea0171db253a0c0a9b7d46c03dffd3",
+      "verified": true
+    },
+    {
+      "file": "alphas_10.dat",
+      "git_blob_sha": "dc3514867b677e58c405a3ca0f9883216247778b",
+      "verified": true
+    },
+    {
+      "file": "betas_10.dat",
+      "git_blob_sha": "1392ffb367f95c82c965a75adfcce3b129ad11ef",
+      "verified": true
+    },
+    {
+      "file": "coupls_10.dat",
+      "git_blob_sha": "d26e996f384f495c24e3e698ccdbc938dd663c2d",
+      "verified": true
+    }
+  ]
+}
