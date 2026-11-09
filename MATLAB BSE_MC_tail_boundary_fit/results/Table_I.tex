@@ -1,0 +1,38 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.3}
+
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{\rule[-0.7ex]{0pt}{3.2ex}BSE: chain extension $\bar{\Sigma}_N$} \\
+\hline
+$N$ & $\bar{\omega}_N$ & $\bar{\kappa}_N$ \\
+\hline
+15 & $0.5005026287$ & $0.2499057841$ \\
+30 & $0.5001202596$ & $0.2499690878$ \\
+45 & $0.5000562212$ & $0.2499856198$ \\
+60 & $0.5000323700$ & $0.2499917708$ \\
+\hline
+\end{tabular*}
+
+\medskip
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}|c|c|c|c|c|c|}
+\hline
+\multicolumn{6}{|c|}{\rule[-0.7ex]{0pt}{3.2ex}Relative population error $\varepsilon_X^{(P)}$, $T=2000$} \\
+\hline
+& \multicolumn{2}{c|}{BSE} & \multicolumn{3}{c|}{MC, $M=10$} \\
+$N$ & $\Sigma_\infty$ & $\bar{\Sigma}_N$ & semicircle & $\chi$: $\bar{\Sigma}$ & $\chi$: exact \\
+\hline
+15 & $2.1\times10^{-4}$ & $1.4\times10^{-4}$ & $2.6\times10^{-4}$ & $1.1\times10^{-4}$ & $3.4\times10^{-5}$ \\
+30 & $9.6\times10^{-6}$ & $5.4\times10^{-7}$ & $9.0\times10^{-6}$ & $8.4\times10^{-6}$ & $8.8\times10^{-6}$ \\
+45 & $1.0\times10^{-6}$ & $3.1\times10^{-8}$ & $1.0\times10^{-6}$ & $1.7\times10^{-6}$ & $1.8\times10^{-6}$ \\
+60 & $1.0\times10^{-7}$ & $2.3\times10^{-9}$ & $6.3\times10^{-7}$ & $3.5\times10^{-7}$ & $3.5\times10^{-7}$ \\
+\hline
+\end{tabular*}
+
+\caption{Chain-extended BSE parameters and relative population errors of the five closures for $T=2000$.
+The MC closures use $M=10$ damped modes coupled to site $N$.}
+\label{tab:termination_parameters_errors}
+\end{table}
